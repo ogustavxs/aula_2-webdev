@@ -1,3 +1,3 @@
 # aula_2-webdev
-## Subtitulo
+## Aprendendo comandos GitHub
 Repositorio para a aula de GitHub
